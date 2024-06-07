@@ -49,6 +49,8 @@
     } 
     /* welcome end */
 
+
+
   .onlineCounseling{
     background-color: antiquewhite;
   }
@@ -67,4 +69,23 @@
     .easyingCardBody{
       background-color: lightskyblue;
     }
+
+
+    /* Mental can not messurement start */
+    .icon-circle {
+      width: 40px;
+      height: 40px;
+      background-color: #f8d7da; /* Circle background color */
+      color: #721c24; /* Icon color */
+      border-radius: 25%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 20px; /* Adjust the size of the icon */
+    }
+    .text-below {
+      /* margin-top: 20px; */
+      text-align: center;
+    }
+    /* Mental can not messurement end */
     
