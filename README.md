@@ -10,12 +10,30 @@ Welcome to Tranquilit Minds, a stunning web application crafted with precision u
 
 Features
 Navbar: Seamlessly navigate through the application with our sleek and intuitive navigation bar.
+
+
 Slider Carousel: Immerse yourself in captivating content with our dynamic slider carousel, perfect for showcasing images or highlighting key features.
+
+
 Card Group: Explore various items or categories presented elegantly in our responsive card group layout.
+
+
 Row & Column Layout: Enjoy a fluid and responsive layout system, ensuring your content looks stunning on any device.
+
+
 Image Overlay Text: Add depth and intrigue to your visuals with our image overlay text feature, allowing you to convey information in a visually appealing manner.
+
 Radius Circle Side Number: Delight your users with a touch of creativity using our unique radius circle side numbers, adding a stylish element to your design.
+
 Footer: Complete your web experience with our thoughtfully designed footer, providing additional information or navigation options.
+
+
+Landing page live link: https://tranquil-minds.netlify.app/
+
+
+
+Landing page code link: https://github.com/shahadot99999/tranquil-minds
+
 
 
 
