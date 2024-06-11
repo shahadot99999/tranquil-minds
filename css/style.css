@@ -88,4 +88,70 @@
       text-align: center;
     }
     /* Mental can not messurement end */
+    .workProcessText{
+      color: rgb(255, 145, 0);
+    }
+
+     .circle {
+      width: 100px;
+      height: 100px;
+      
+      /* border: 5px solid #007bff; */
+      background-color: rgb(160, 156, 156);
+      border-radius: 50%;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+       font-size: 36px;
+      position: relative;
+  }
+
+ 
+  .circle::after {
+      content: attr(data-number);
+      position: absolute;
+      top: -5px; /* Adjust position to be on the border */
+      left: 80%;
+      transform: translateX(-50%);
+      background-color: rgb(224, 204, 243);
+     
+      font-size: 10px;
+      padding: 2px 5px;
+      border-radius: 40%;
+      border: 1px solid #000000;
+  }
+  .circle-text {
+      text-align: center;
+      margin-top: 10px;
+  }
+
+  /* Head over my corner start */
+
+  .image-overlay {
+    position: relative;
+    width: 100%;
+    
+  }
+  .image-overlay img {
+    width: 100%;
+    height: auto;
+  }
+  .overlay-text {
+    position: absolute;
+     top: 40%; 
+    left: 40%; 
+    transform: translate(-50%, -50%);
+    color:rgb(19, 1, 14);
+    background-color: darkgray;
+    text-align: left;
+  }
+  /* Head over my corner end */
+
+  /* get location easy start */
+  .getLocationParagram{
+    color: rgb(255, 149, 11);
+  }
+  /* get location easy end */
+ 
     
